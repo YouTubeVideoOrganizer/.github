@@ -51,6 +51,16 @@ Data belonging to YouTube and your YouTube account (e.g., playlists) is property
 
 If you enable YouTube Integration > Show Saved Video Indicators, YouTube may be able to detect your extension use and read the ids of the videos you have saved.
 
+## Permissions Used And Why
+
+### Host Permissions
+
+YouTube Video Organizer requires access to YouTube pages to inject "Save" buttons and "Saved/Archived" indicators directly into YouTube's interface.
+
+The extension extracts video metadata (title, channel, duration, thumbnail) from YouTube pages to create organized video records.
+
+These permissions are limited exclusively to YouTube domains and are used solely for reading publicly available video information.
+
 ## Your Rights and Choices
 
 ### Data Control
